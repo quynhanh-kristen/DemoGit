@@ -3,4 +3,5 @@ body{
     color: pink;
     font-size: medium;
     text-align: center;
+    text-justify: auto;
 }
